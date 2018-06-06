@@ -33,7 +33,7 @@
 				<!-- Nav -->
 					<nav id="nav">
 						<ul>
-							<li><a href="#intro" class="active">Introduction</a></li>
+							<li><a href="#intro" class="active">About Me</a></li>
 							<li><a href="#portfolio">Portfolio</a></li>
 							<li><a href="#contact">Contact</a></li>
 						</ul>
@@ -57,7 +57,23 @@
 											great team and working together effectively to produce a valuable product.
 											I have made a website for a non profit organization and working on a mobile
 											application for construction companies to use. I am seeking a job in the
-											software development field, contact me if you would like a copy of my resume.</p>
+											software development field, contact me if you would like a copy of my resume.
+                                        </p>
+
+<!--                                        <h3 style="font-weight: bold">Languages</h3>-->
+                                        <div>
+                                            <header class="major">
+                                                <h2>Languages</h2>
+                                            </header>
+                                            <div class="row uniform">
+                                                <div class="4u"><span class="fit"><img src="images/java.png" alt="" style="width:100px;height:100px;"/></span></div>
+                                                <div class="4u"><span class="fit"><img src="images/html.png" alt="" style="width:100px;height:100px;"/></span></div>
+                                                <div class="4u"><span class="fit"><img src="images/css.png" alt="" style="width:100px;height:100px;"/></span></div>
+                                                <div class="4u"><span class="fit"><img src="images/php.png" alt="" style="width:100px;height:100px;"/></span></div>
+                                                <div class="4u"><span class="fit"><img src="images/javascript.png" alt="" style="width:100px;height:100px;"/></span></div>
+                                                <div class="4u"><span class="fit"><img src="images/jquery.png" alt="" style="width:100px;height:100px;"/></span></div>
+                                            </div>
+                                        </div>
 									</div>
 									<span class="image"><img src="images/portfolioImage.jpg" alt="" /></span>
 								</div>
@@ -111,9 +127,29 @@
 							<section id="contact" class="main special">
 								<header class="major">
 									<h2>Contact</h2>
-									
+
 								</header>
 
+                                <ul class="features">
+                                    <li>
+                                        <a href="https://github.com/pavlikv/">
+                                            <img src="images/github.png" alt="" style="width:100px;height:100px;"/>
+                                        </a>
+                                    </li>
+
+                                    <li>
+                                        <img src="images/email.png" alt="" style="width:150px;height:100px;"/>
+                                        <p>
+                                            pvashchuk@mail.greenriver.edu
+                                        </p>
+                                    </li>
+
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/pavelvashchuk/">
+                                            <img src="images/linkedin.png" alt="" style="width:100px;height:100px;"/>
+                                        </a>
+                                    </li>
+                                </ul>
 
 							</section>
 
